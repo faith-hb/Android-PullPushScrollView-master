@@ -1,0 +1,843 @@
+[
+    {
+        "outputFile": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1910,
+                        "endColumn": 41,
+                        "endOffset": 1947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 41,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 41,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 41,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 41,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 41,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1303,
+                        "endColumn": 41,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 43,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 45,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1733,
+                        "endColumn": 45,
+                        "endOffset": 1774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 41,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 41,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 40,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 40,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 41,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 1987,
+                        "endColumn": 38,
+                        "endOffset": 2024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 41,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 41,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 40,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1180,
+                        "endColumn": 40,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 40,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1221,
+                        "endColumn": 40,
+                        "endOffset": 1257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 40,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1262,
+                        "endColumn": 40,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 40,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 40,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 40,
+                    "endOffset": 680
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1779,
+                        "endColumn": 40,
+                        "endOffset": 1815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 685,
+                    "endColumn": 40,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 40,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 44,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1820,
+                        "endColumn": 44,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endColumn": 44,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endColumn": 44,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 39,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 39,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 40,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 1949,
+                        "endColumn": 37,
+                        "endOffset": 1985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 51,
+                    "endOffset": 944
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 51,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 949,
+                    "endColumn": 60,
+                    "endOffset": 1005
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 60,
+                        "endOffset": 1614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1010,
+                    "endColumn": 57,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endColumn": 57,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 52,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 52,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 49,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 49,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 56,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 56,
+                        "endOffset": 1728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 56,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1619,
+                        "endColumn": 56,
+                        "endOffset": 1671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 48,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endColumn": 48,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 51,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1086,
+                        "endColumn": 51,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 41,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 41,
+                        "endOffset": 1175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 43,
+                    "endOffset": 1467
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 43,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1472,
+                    "endColumn": 46,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 5,
+                        "startOffset": 897,
+                        "endColumn": 47,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 47,
+                    "endOffset": 1562
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 47,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1567,
+                    "endColumn": 52,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 52,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 54,
+                    "endOffset": 1670
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 54,
+                        "endOffset": 891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1675,
+                    "endColumn": 54,
+                    "endOffset": 1725
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 54,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1730,
+                    "endColumn": 54,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 731,
+                        "endColumn": 54,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endColumn": 54,
+                    "endOffset": 1835
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 54,
+                        "endOffset": 726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1840,
+                    "endColumn": 54,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 54,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 52,
+                    "endOffset": 1943
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 52,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1948,
+                    "endColumn": 39,
+                    "endOffset": 1983
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 39,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1988,
+                    "endColumn": 44,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 44,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 51,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2085,
+                    "endColumn": 52,
+                    "endOffset": 2133
+                },
+                "from": {
+                    "file": "D:\\android_github\\Android-PullPushScrollView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            }
+        ]
+    }
+]

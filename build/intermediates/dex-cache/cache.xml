@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\Android-PullPushScrollView-master1\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\android_github\Android-PullPushScrollView-master1\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_14e8be26394c32896226fb05882f2055ecc2644a.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\android_github\Android-PullPushScrollView-master1\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_2312e9105503739ebc36d38d30c618f9e2cfb50a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-PullPushScrollView-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\android_github\Android-PullPushScrollView-master1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_5c3bcde72339b2b11dc457393bcb10ec1c0f92bb.jar" />
+    </item>
+    <item
+        jar="D:\android_github\Android-PullPushScrollView-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\android_github\Android-PullPushScrollView-master1\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_e4303937683e01ed95b1e814983c7d8219104316.jar" />
+    </item>
+
+</items>
